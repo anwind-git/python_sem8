@@ -1,0 +1,9 @@
+{ "staff": [
+{ "id": 1, "surname": "Иванов", "name":"Иван", "first_name": "Иванович", "post":"слесарь", "salary": "25000", "telephone": "+7 9184556789",  "telegram": "@ivanov" },
+{ "id": 2, "surname": "Петров", "name":"Петр", "first_name": "Петрович", "post":"плотник", "salary": "20000", "telephone": "+7 9174567891",  "telegram": "@petrov" },
+{ "id": 3, "surname": "Сидоренко", "name":"Николай", "first_name": "Алексеевич", "post":"токарь", "salary": "30000", "telephone": "+7 9154567823",  "telegram": "@nikolai" },
+{ "id": 4, "surname": "Новиков", "name":"Владимир", "first_name": "Викторович", "post":"преподователь", "salary": "25000", "telephone": "+7 9665243562",  "telegram": "@novikov" },
+{ "id": 5, "surname": "Кравцова", "name":"Екатерина", "first_name": "Андреевна", "post":"преподователь", "salary": "25000", "telephone": "+7 5456759123",  "telegram": "@kravcova" },
+{ "id": 6, "surname": "Глущенко", "name":"Евгений", "first_name": "Ветальевич", "post":"преподователь", "salary": "20000", "telephone": "+7 6632562332",  "telegram": "@glushenko" },
+{ "id": 7, "surname": "Головко", "name":"Марина", "first_name": "Сергеевна", "post":"уборщица", "salary": "10000", "telephone": "+7 5596242360",  "telegram": "@golovko" }
+]}
